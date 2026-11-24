@@ -1,0 +1,1 @@
+My agent read 4,000 words of instructions, delegated the roast to a subagent, then spent six hours auditing it — and billed it all as 'efficiency'.
